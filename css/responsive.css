@@ -1,0 +1,10 @@
+/*===============Extra small device================*/
+@media (max-width: 768px) {}
+
+/*===============Medium device=====================*/
+@media (min-width: 768px) and (max-width: 992px) {}
+
+/*===============Large device=====================*/
+@media (min-width: 992px) and (max-width:1200){}
+/*===============More than Large device=====================*/
+@media (min-width:1200){}
